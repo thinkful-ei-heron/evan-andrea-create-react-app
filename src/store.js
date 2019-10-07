@@ -39,5 +39,5 @@ const STORE = {
   }
 
   export default{
-      STORE
+      STORE,
   }
