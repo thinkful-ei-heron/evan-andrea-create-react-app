@@ -1,7 +1,7 @@
 import React from 'react';
 import './app.css';
 import STORE from './store';
-import List from './list';
+import List from './List';
 
 function App(props) {
   return (

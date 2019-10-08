@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Card /> renders UI as expected 1`] = `
+<div
+  className="Card"
+>
+  <button
+    type="button"
+  >
+    delete
+  </button>
+  <h3>
+    cats
+  </h3>
+  <p>
+    dogs
+  </p>
+</div>
+`;

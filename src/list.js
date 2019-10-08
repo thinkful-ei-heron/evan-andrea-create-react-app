@@ -2,6 +2,10 @@ import React from 'react';
 import './list.css'
 import Card from './Card'
 
+list.defaultProps = {
+    card: []
+}
+
 function list(props) {
     return (
         <section className="List"> 
